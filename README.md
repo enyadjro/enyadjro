@@ -6,17 +6,17 @@ Data Scientist focused on building end-to-end machine learning systems for decis
 
 ## 🚀 Featured Projects
 
-### 📊 Telecom Churn Prediction
-Cost-sensitive ML system with FastAPI deployment for real-time customer risk scoring.
+### 📊 Telecom Churn Prediction (Flagship)
+End-to-end cost-sensitive ML system with calibrated probabilities, threshold optimization, and FastAPI deployment for real-time customer risk scoring.
 
 ### 🚗 Vehicle Price Modeling
-Interpretable regression analysis identifying key drivers of vehicle pricing.
+Interpretable regression modeling using regularization and feature analysis to identify key drivers of vehicle pricing.
 
 ### ⚡ Big Data Analytics
-Spark-based pipeline for scalable data processing and distributed analytics.
+Scalable Spark-based analytics pipeline using distributed computing and SQL for large-scale data processing.
 
 ### 🤖 QA Transformer Project
-Transformer-based NLP system for question answering tasks.
+Transformer-based NLP system for question answering, demonstrating deep learning and modern language modeling.
 
 ---
 
