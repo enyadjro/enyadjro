@@ -1,4 +1,4 @@
-# Hi, I'm Ebenezer 👋
+# Hi, I'm Ebenezer 
 
 Data Scientist focused on building end-to-end machine learning systems for decision-making, combining modeling, interpretability, and deployment.
 
@@ -22,10 +22,10 @@ Transformer-based NLP system for question answering, demonstrating deep learning
 
 ## 🧠 Skills
 
-- Python, R, SQL  
+- Python, R, SQL, Matlab 
 - Machine Learning, Deep Learning  
 - Spark, Big Data Processing  
-- Model Deployment (FastAPI)  
+- Model Deployment   
 - Data Visualization & Interpretation  
 
 ---
