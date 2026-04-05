@@ -6,7 +6,7 @@ Data Scientist focused on building end-to-end machine learning systems for decis
 
 ## 🚀 Featured Projects
 
-### 📊 Telecom Churn Prediction (Flagship)
+### 📊 Telecom Churn Prediction
 End-to-end cost-sensitive ML system with calibrated probabilities, threshold optimization, and FastAPI deployment for real-time customer risk scoring.
 
 ### 🚗 Vehicle Price Modeling
