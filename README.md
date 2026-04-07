@@ -1,6 +1,6 @@
 # Hi, I'm Ebenezer 
 
-Data Scientist focused on building end-to-end machine learning systems for decision-making, combining modeling, interpretability, and deployment.
+Data Scientist building end-to-end data and machine learning solutions for decision-making, spanning analytics, predictive modeling, and scalable data systems.
 
 ---
 
