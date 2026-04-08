@@ -4,23 +4,23 @@ Data Scientist building end-to-end data and machine learning solutions for decis
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Telecom Churn Prediction
+### Telecom Churn Prediction
 End-to-end cost-sensitive ML system with calibrated probabilities, threshold optimization, and FastAPI deployment for real-time customer risk scoring.
 
-### 🚗 Vehicle Price Modeling
+### Vehicle Price Modeling
 Interpretable regression modeling using regularization and feature analysis to identify key drivers of vehicle pricing.
 
-### ⚡ Big Data Analytics
+### Big Data Analytics
 Scalable Spark-based analytics pipeline using distributed computing and SQL for large-scale data processing.
 
-### 🤖 QA Transformer Project
+### QA Transformer Project
 Transformer-based NLP system for question answering, demonstrating deep learning and modern language modeling.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 - Python, R, SQL, Matlab 
 - Machine Learning, Deep Learning  
